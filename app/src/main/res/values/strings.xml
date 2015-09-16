@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BluffCalculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluff">Bluff</string>
+    <string name="title_activity_semi_bluff">SemiBluff</string>
+    <string name="title_activity_call">Call</string>
+    <string name="actionbar_title">Bluff Calculator</string>
+    <string name="textView_bluff">Bluff</string>
+    <string name="textView_call">Call</string>
+    <string name="textView_semibluff">Semi Bluff</string>
+    <string name="textView_potsizebefore">Pot size before Bluff</string>
+    <string name="textView_bluff_bluffamont">Bluff amount</string>
+    <string name="textView_bluff_fe">Fold equity (%)</string>
+    <string name="button_bluff_ok">OK</string>
+    <string name="textView_bluff_result">Bluff resultat</string>
+    <string name="buttun_semi_ok">OK</string>
+    <string name="button_call_ok">OK</string>
+    <string name="textView_call_ev">Expected value</string>
+    <string name="textView_call_pot_odds">Pot odds (%)</string>
+    <string name="textView_call_equity">Equity (%)</string>
+    <string name="textView_call_pot_after">Total pot after call</string>
+    <string name="textView_call_amount">Amount to call</string>
+    <string name="textView_call_call">Call</string>
+    <string name="textView_semi_size_before">Pot size before bluff</string>
+    <string name="textView_semi_bluff_amount">Bluff amount</string>
+    <string name="textView_semi_fe">Fold equity (%)</string>
+    <string name="textView_semi_equity_if_call">Equity if villain call (%)</string>
+    <string name="textView_semi_ev">Expected value</string>
+    <string name="logo_splash">logoSplash</string>
+    <string name="logo_splashscdreen">logosplash</string>
+</resources>
